@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Equipment()
+comment1.params=x\ y\ dir
+comment1.target=void\ attack(int,\ int,\ int)
+numComments=2

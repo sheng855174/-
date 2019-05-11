@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fn
+comment0.target=SoundManager(java.lang.String)
+comment1.params=fn
+comment1.target=javax.sound.sampled.Clip\ getPlayer(java.lang.String)
+numComments=2

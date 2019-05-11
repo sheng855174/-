@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bfname\ fext\ n
+comment0.target=ImageSequence(java.lang.String,\ java.lang.String,\ int)
+comment1.params=cycle
+comment1.target=java.awt.Image\ next(boolean)
+comment2.params=
+comment2.target=void\ reset()
+numComments=3

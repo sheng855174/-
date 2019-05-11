@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ setX(int)
+comment1.params=y
+comment1.target=void\ setY(int)
+comment2.params=status
+comment2.target=void\ setStatus(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getStatus()
+comment4.params=controller
+comment4.target=void\ setController(Controller)
+comment5.params=
+comment5.target=void\ pause()
+numComments=6

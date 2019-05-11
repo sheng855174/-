@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ controller
+comment0.target=Fly(int,\ int,\ Controller)
+comment1.params=
+comment1.target=int\ getHeight()
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+numComments=5

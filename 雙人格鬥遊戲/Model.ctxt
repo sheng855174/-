@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=second
+comment0.target=Model(int)
+comment1.params=
+comment1.target=int\ getSecond()
+comment2.params=second
+comment2.target=void\ setSecond(int)
+comment3.params=controller
+comment3.target=void\ setController(Controller)
+comment4.params=
+comment4.target=Man\ getPlayer1()
+comment5.params=
+comment5.target=Man\ getPlayer2()
+comment6.params=
+comment6.target=int\ getBackGroundHeight()
+comment7.params=
+comment7.target=int\ getBackGroundWidtht()
+comment8.params=
+comment8.target=java.util.ArrayList\ getFly()
+comment9.params=fly
+comment9.target=void\ addFly(Fly)
+numComments=10

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StatusPanel()
+comment1.params=
+comment1.target=void\ display()
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=hp1
+comment3.target=void\ setHp1(int)
+comment4.params=hp2
+comment4.target=void\ setHp2(int)
+comment5.params=
+comment5.target=int\ getHp1()
+comment6.params=
+comment6.target=int\ getHp2()
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ dir\ camp\ equipment
+comment0.target=Boy(int,\ int,\ int,\ int,\ Equipment)
+comment1.params=g
+comment1.target=void\ display(java.awt.Graphics)
+numComments=2
